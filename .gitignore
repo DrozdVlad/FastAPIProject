@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.sqlite3
+*.db
+
+# virtualenv
+.venv/
+venv/
+
+# SQLite
+weather.db
+
+# dotenv
+.env
+
+# Docker-compose override
+docker-compose.override.yml
+
+# IDE-config
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
